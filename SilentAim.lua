@@ -1,5 +1,5 @@
 -- // Dependencies
-local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/diwany/ROBLOX/main/Module.lua"))()
+local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/diwany/dahood/main/Module.lua"))()
 Aiming.TeamCheck(false)
 
 -- // Services
